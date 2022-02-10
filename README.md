@@ -17,3 +17,6 @@ Cloning the project:
 7.Run php artisan serve
 
 8.Go to link localhost:8000 OR 127.0.0.1:8000
+
+Link Rlink referral: 
+https://larainfo.com/blogs/laravel-9-crud-with-tailwind-css-3-example
